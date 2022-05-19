@@ -1,6 +1,24 @@
 body{
-    background-color: #F5DEB3;
+    background-color:	#DEB887;
 
+}
+
+.menu{
+  background-color: rgba(9, 7, 6, 0.3);
+   padding: 2%;
+
+}
+
+.itens_Menu{
+  padding-top: 1%;
+  line-height: 1.5;
+  text-align: center;
+  font-size: 1.3em;
+
+}
+
+h1{
+  font-size: 2em;
 }
 
 p{
@@ -9,7 +27,7 @@ p{
 }
 
 h1,h2{
-    color: #FF8C00;
+    color: #4F4F4F;
     text-align: center;
 }
 
@@ -31,15 +49,20 @@ figure{
 }
 
 a:link {
-    color: red;
+    color: #FFDEAD;
   }
   
   /* visited link */
   a:visited {
-    color: green;
+    color:#FFDEAD;
   }
   
   /* mouse over link */
   a:hover {
-    color: hotpink;
+    color:#FF8C00;
+  }
+
+  footer{
+    background-color: rgba(9, 7, 6, 0.3);
+    padding: 2%;
   }
