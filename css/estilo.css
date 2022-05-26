@@ -56,6 +56,7 @@ figure{
     width: 60%;
     margin-top: 2%;
     margin-bottom: 2%;
+    
 }
 
 a:link {
@@ -84,3 +85,16 @@ a:link {
 
 
   }
+  .direita{
+    float: right;
+    width: 40%;
+    margin-left: 2%;
+  }
+
+  .esquerda{
+    float: left;
+    width: 40%;
+    margin-right: 2%;
+    margin-top: 1%;
+  }
+  
