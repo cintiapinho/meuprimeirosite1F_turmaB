@@ -9,10 +9,6 @@ body{
 
 }
 
-section{
-  margin-top: 2%;
-  margin-bottom: 2%;
-}
 
 .itens_Menu{
   padding-top: 1%;
@@ -29,9 +25,8 @@ h1{
 p{
   color: #8B4513;  
   font-size: 1.5em;
-  line-height: 1.5;
-  text-align: justify;
-  text-indent: 25px;
+  
+  
 }
 
 h1,h2{
@@ -78,23 +73,5 @@ a:link {
     padding: 2%;
   }
 
-  footer p{
-
-    text-align: center;
-    font-size: 1.2em;
-
-
-  }
-  .direita{
-    float: right;
-    width: 40%;
-    margin-left: 2%;
-  }
-
-  .esquerda{
-    float: left;
-    width: 40%;
-    margin-right: 2%;
-    margin-top: 1%;
-  }
+  
   
