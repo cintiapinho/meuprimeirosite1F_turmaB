@@ -9,6 +9,11 @@ body{
 
 }
 
+section{
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
 .itens_Menu{
   padding-top: 1%;
   line-height: 1.5;
@@ -24,6 +29,9 @@ h1{
 p{
   color: #8B4513;  
   font-size: 1.5em;
+  line-height: 1.5;
+  text-align: justify;
+  text-indent: 25px;
 }
 
 h1,h2{
@@ -46,6 +54,8 @@ figure{
 .img_corpo{
 
     width: 60%;
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
 
 a:link {
@@ -65,4 +75,12 @@ a:link {
   footer{
     background-color: rgba(9, 7, 6, 0.3);
     padding: 2%;
+  }
+
+  footer p{
+
+    text-align: center;
+    font-size: 1.2em;
+
+
   }
