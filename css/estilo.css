@@ -91,6 +91,11 @@ footer{
     margin-top: 2%;
 }
 
+footer p {
+  text-align: center;
+  font-size: 1em;
+}
+
 .botao{
  margin: 1%;
   width: 100px;
