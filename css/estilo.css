@@ -147,5 +147,15 @@ section{
   width: 30%;
 }
 
+table{
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td,th{
+  border: 2px dashed #8B4513;
+  padding: 1%;
+}
+
   
   
