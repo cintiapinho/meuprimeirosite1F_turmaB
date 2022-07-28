@@ -1,3 +1,8 @@
+@font-face {
+  font-family: KaushanScript-Regular;
+  src: url('../fonts/KaushanScript-Regular.ttf');
+}
+
 html{
   scroll-behavior: smooth;
 }
@@ -10,6 +15,7 @@ body{
 .menu{
   background-color: rgba(9, 7, 6, 0.3);
    padding: 2%;
+   font-family: 'Permanent Marker', cursive;
 
 }
 
@@ -41,14 +47,15 @@ body{
 
 h1{
   font-size: 2em;
+  font-family: 'Courgette',cursive;
 }
 
 p{
   color: #8B4513;  
   font-size: 1.5em;
-  line-height: 1.3;
+  line-height: 1.5;
   text-align: justify;
-  /* text-indent: 40px; */
+  font-family: 'KaushanScript-Regular',cursive;
   
   
 }
