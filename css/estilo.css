@@ -150,11 +150,34 @@ section{
 table{
   width: 100%;
   border-collapse: collapse;
+  text-align: center;
+  font-family: 'KaushanScript-Regular',cursive;
 }
 
 td,th{
   border: 2px dashed #8B4513;
   padding: 1%;
+}
+
+th{
+  font-size: 1.5em;
+  font-weight: bolder;
+  }
+
+td:first-child{
+  width: 40% ;
+}
+
+td:first-child + td{
+  width: 60% ;
+
+}
+audio{
+  width: 85%;
+}
+
+audio::-webkit-media-controls-panel {
+  background-color: #8B4513 !important;
 }
 
   
